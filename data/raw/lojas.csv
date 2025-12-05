@@ -1,0 +1,11 @@
+id_loja,nome_loja,cidade,estado,tipo_loja
+1,Super Loja 01,Salvador,BA,Atacado
+2,Super Loja 02,Aracaju,SE,Varejo
+3,Super Loja 03,Recife,PE,Varejo
+4,Super Loja 04,Maceió,AL,Atacado
+5,Super Loja 05,Fortaleza,CE,Atacado
+6,Super Loja 06,João Pessoa,PB,Varejo
+7,Super Loja 07,Natal,RN,Hiper
+8,Super Loja 08,Teresina,PI,Hiper
+9,Super Loja 09,São Luís,MA,Varejo
+10,Super Loja 10,Feira de Santana,BA,Hiper

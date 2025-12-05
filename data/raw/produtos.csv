@@ -1,0 +1,51 @@
+id_produto,nome_produto,categoria,subcategoria,fornecedor,custo_unitario,preco_unitario
+1,Produto 001,Alimentos,Grãos,CleanMax,47.61,78.04
+2,Produto 002,Alimentos,Bebidas,Nordeste Foods,9.07,11.2
+3,Produto 003,Alimentos,Laticínios,CleanMax,8.43,13.41
+4,Produto 004,Limpeza,Casa,CleanMax,47.02,56.45
+5,Produto 005,Higiene,Pessoal,Alimbras,16.26,24.63
+6,Produto 006,Mercearia,Enlatados,Alimbras,26.95,38.81
+7,Produto 007,Mercearia,Molhos,CleanMax,19.27,28.4
+8,Produto 008,Hortifruti,Frutas,BioHig,20.05,35.89
+9,Produto 009,Hortifruti,Verduras,Vida Verde,30.97,40.33
+10,Produto 010,Pet,Rações,CleanMax,47.2,72.59
+11,Produto 011,Alimentos,Grãos,Nordeste Foods,6.24,10.05
+12,Produto 012,Alimentos,Bebidas,CleanMax,25.52,31.15
+13,Produto 013,Alimentos,Laticínios,CleanMax,10.34,17.09
+14,Produto 014,Limpeza,Casa,PetPlus,28.02,36.73
+15,Produto 015,Higiene,Pessoal,Nordeste Foods,23.31,33.5
+16,Produto 016,Mercearia,Enlatados,PetPlus,11.01,13.51
+17,Produto 017,Mercearia,Molhos,Vida Verde,14.66,24.88
+18,Produto 018,Hortifruti,Frutas,CleanMax,30.94,42.25
+19,Produto 019,Hortifruti,Verduras,Vida Verde,5.12,9.18
+20,Produto 020,Pet,Rações,CleanMax,15.73,19.01
+21,Produto 021,Alimentos,Grãos,BioHig,39.82,62.26
+22,Produto 022,Alimentos,Bebidas,Nordeste Foods,7.12,12.23
+23,Produto 023,Alimentos,Laticínios,Nordeste Foods,6.13,8.72
+24,Produto 024,Limpeza,Casa,Vida Verde,36.89,58.38
+25,Produto 025,Higiene,Pessoal,Alimbras,20.07,35.79
+26,Produto 026,Mercearia,Enlatados,Vida Verde,28.72,47.75
+27,Produto 027,Mercearia,Molhos,Alimbras,35.97,45.56
+28,Produto 028,Hortifruti,Frutas,BioHig,3.02,4.78
+29,Produto 029,Hortifruti,Verduras,CleanMax,45.52,61.43
+30,Produto 030,Pet,Rações,BioHig,11.35,20.04
+31,Produto 031,Alimentos,Grãos,BioHig,9.32,16.38
+32,Produto 032,Alimentos,Bebidas,Alimbras,6.62,9.76
+33,Produto 033,Alimentos,Laticínios,CleanMax,44.79,68.24
+34,Produto 034,Limpeza,Casa,CleanMax,18.78,32.75
+35,Produto 035,Higiene,Pessoal,BioHig,22.21,37.55
+36,Produto 036,Mercearia,Enlatados,PetPlus,26.27,38.1
+37,Produto 037,Mercearia,Molhos,BioHig,14.57,19.62
+38,Produto 038,Hortifruti,Frutas,Alimbras,21.09,26.13
+39,Produto 039,Hortifruti,Verduras,CleanMax,13.71,20.54
+40,Produto 040,Pet,Rações,Alimbras,49.89,67.85
+41,Produto 041,Alimentos,Grãos,CleanMax,4.0,5.47
+42,Produto 042,Alimentos,Bebidas,BioHig,34.51,52.41
+43,Produto 043,Alimentos,Laticínios,PetPlus,13.24,21.23
+44,Produto 044,Limpeza,Casa,BioHig,13.24,22.27
+45,Produto 045,Higiene,Pessoal,Nordeste Foods,32.23,49.04
+46,Produto 046,Mercearia,Enlatados,Alimbras,8.81,13.26
+47,Produto 047,Mercearia,Molhos,BioHig,30.16,48.45
+48,Produto 048,Hortifruti,Frutas,BioHig,40.76,57.44
+49,Produto 049,Hortifruti,Verduras,Alimbras,35.01,50.14
+50,Produto 050,Pet,Rações,Alimbras,34.27,56.24
