@@ -151,4 +151,4 @@ MIT License.
 
 # ✨ Autor
 
-[@USER](https://github.com/joabalm)
+[@joabalm](https://github.com/joabalm)
